@@ -37,3 +37,5 @@ register_direct_llm_agent(
 )
 
 import hw06_registration  # noqa: E402,F401
+
+import hw06_registration  # noqa: E402,F401
