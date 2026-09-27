@@ -2,3 +2,5 @@
 __pycache__/
 .env.example
 .DS_Store
+*.pyc
+hw06_trial*/
